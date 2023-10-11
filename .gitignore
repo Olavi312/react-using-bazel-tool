@@ -1,0 +1,6 @@
+bazel-*
+**/.terraform/*
+node_modules/
+.pnpm-*
+.DS_Store
+.bazelrc.user
